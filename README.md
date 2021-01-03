@@ -1,3 +1,3 @@
 # Counter App in Angular
 
-![](/src/assets/image.jpg)
+![](/src/assets/img.JGP)
